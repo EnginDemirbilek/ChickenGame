@@ -9,6 +9,4 @@ Simple Game I wrote in JAVA a few years ago.
 ![Gameplay](https://raw.githubusercontent.com/EnginDemirbilek/ChickenGame/master/pics/gameplay.png)
 
 
-![Dead](https://raw.githubusercontent.com/EnginDemirbilek/ChickenGame/master/pics/dead.png)
-
 
