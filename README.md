@@ -2,13 +2,13 @@
 Simple Game I wrote in JAVA a few years ago.
 
 
-![alt text](https://github.com/EnginDemirbilek/ChickenGame/pics/start-page.png)
+![Start Page](https://raw.githubusercontent.com/EnginDemirbilek/ChickenGame/master/pics/start-page.png)
 
 
 
-![alt text](https://github.com/EnginDemirbilek/ChickenGame/pics/gameplay.png)
+![Gameplay](https://raw.githubusercontent.com/EnginDemirbilek/ChickenGame/master/pics/gameplay.png)
 
 
-![alt text](https://github.com/EnginDemirbilek/ChickenGame/pics/dead.png)
+![Dead](https://raw.githubusercontent.com/EnginDemirbilek/ChickenGame/master/pics/dead.png)
 
 
